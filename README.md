@@ -5,9 +5,9 @@
 Here are some ideas to get you started:
 
 🔭 I’m currently working in the marketing area of two startups <br>
-- 🙇🏻 I’m currently learning React, Solidity, Python
-- 🦄 I am programming in JS (for now)
-- 👯 I’m looking to collaborate on blockchain projects
-- 📫 You can contact me on francemazzi@gmail.com
-- 🌳 Fun fact: Two years ago I created a modular vertical farm
+🙇🏻 I’m currently learning React, Solidity, Python <br>
+🦄 I am programming in JS (for now) <br>
+👯 I’m looking to collaborate on blockchain projects <br>
+📫 You can contact me on francemazzi@gmail.com <br>
+🌳 Fun fact: Two years ago I created a modular vertical farm <br>
 
