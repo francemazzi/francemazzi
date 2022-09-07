@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working in the marketing area of two startups 
+🔭 I’m currently working in the marketing area of two startups <br>
 - 🙇🏻 I’m currently learning React, Solidity, Python
 - 🦄 I am programming in JS (for now)
 - 👯 I’m looking to collaborate on blockchain projects
