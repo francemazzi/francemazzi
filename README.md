@@ -1,4 +1,4 @@
-### Nice to meet you, I'm Frama! 👋
+### Nice to meet you, I'm FraSma! 👋
 
 🦄 I’m currently working between food and blockchain startups<br>
 🙇🏻 I’m currently learning Solidity <br>
