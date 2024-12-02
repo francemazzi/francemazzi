@@ -15,7 +15,7 @@
 🛠️ **My tools and technologies:**  
 - Programming languages:  `TypeScript`, `Python`  , `Dart`  , `Solidity`  
 - Frameworks: `React`, `Next.js`, `FastAPI` , `Flutter`  
-- Tools: `Docker`, `Kubernetes`, `CI/CD Pipelines`, `Terraform`  
+- Tools: `Docker`, `Kubernetes`, `CI/CD Pipelines`, `Terraform`  ,`GCP`, `Azure`  
 
 💡 **Let's connect and create tech that makes a difference!**  
 
