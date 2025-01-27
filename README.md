@@ -1,6 +1,6 @@
 # 👋 Nice to meet you, I'm FraSma!  
 
-✨ **Innovator at the intersection of technology, food, and industry** ✨  
+✨ **Innovator at the Intersection of Technology and AgriTech** ✨  
 
 🚀 **What I do:**  
 - Working across **food** and **blockchain startups**, driving cutting-edge solutions  
