@@ -3,7 +3,7 @@
 ✨ **Innovator at the Intersection of Technology and AgriTech** ✨  
 
 🚀 **What I do:**  
-- Working across **food** and **blockchain startups**, driving cutting-edge solutions  
+- Working across **food** and **innovative startups**, driving cutting-edge solutions  
 - Collaborating with **manufacturing companies** to optimize processes through smart technologies  
 
 📚 **What I'm learning:**  
