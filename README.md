@@ -34,6 +34,6 @@ If you’re working on AgriTech, food innovation or industrial digitalization, l
 
 ---
 
-<a href="https://calendly.com/francescomazzi/15min">
+<a href="https://calendly.com/francescomazzi/15min" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Book%20a%2015–min%20call-Calendly-blue?style=for-the-badge" alt="Book a 15-min call on Calendly" />
 </a>
