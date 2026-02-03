@@ -5,7 +5,7 @@ I design and ship **production-ready software** where **agriculture, data and au
 🌾 **What I work on**
 - End-to-end platforms for **agriculture, food supply chains and manufacturing**
 - **AI-driven workflow automation** for farmers, agronomists and food companies  
-  → creator of <a href="https://www.seminai.tech" target="_blank" rel="noopener noreferrer"><strong>seminai.tech</strong></a>
+  → creator of <a href="https://seminai.tech/" target="_blank" rel="noopener noreferrer"><strong>seminai.tech</strong></a>
 - Process optimization with **data, APIs and ML** for startups and industrial teams
 
 🧠 **Currently focused on**
