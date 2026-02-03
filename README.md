@@ -1,39 +1,35 @@
-# 👋 Hi, I'm FraSma — Software Developer in AgriTech & Manufacturing    
+# 👋 Hi, I’m FraSma — Software developer building AI products for AgriTech & Manufacturing
 
-✨ **Innovator at the Intersection of Technology and AgriTech** ✨
+I design and ship **production-ready software** where **agriculture, data and automation** meet.
 
-🌾 **What I do**  
-- Design and build **end-to-end platforms** for agriculture and the **food supply chain**  
-- Help **farmers, agronomists and food companies** digitalize workflows, compliance and decision-making  
-- Collaborate with **innovative startups** and **manufacturing companies** to optimize processes with data, automation and AI  
+🌾 **What I work on**
+- End-to-end platforms for **agriculture, food supply chains and manufacturing**
+- **AI-driven workflow automation** for farmers, agronomists and food companies  
+  → creator of **[seminai.tech](https://www.seminai.tech)**
+- Process optimization with **data, APIs and ML** for startups and industrial teams
 
-🧠 **Currently exploring**  
-- **TensorFlow** for ML-powered decision support in agriculture  
-- **Scapy** and low-level networking for smarter, more robust integrations  
+🧠 **Currently focused on**
+- Machine learning for **decision-support systems** in agriculture (TensorFlow, applied ML)
+- **Low-level networking & integrations** (Scapy, resilient systems)
 
-🌱 **Fun fact**  
-- I designed and built a modular **vertical farm** from scratch, merging sustainability, hardware and software  
+🌱 **Side reality**
+- Built a **modular vertical farm** from scratch: hardware, sensors, control logic and software
 
-🛠️ **Tech stack**  
+🛠️ **Tech stack**
+- **Languages:** TypeScript · Python · Java · Dart · Solidity · Arduino (C/C++)
+- **Frontend & Mobile:** React · Vite · Next.js · Flutter
+- **Backend:** FastAPI · Spring Boot · Spring MVC
+- **Cloud & DevOps:** Docker · Kubernetes · CI/CD · Terraform · GCP · Azure
+- **IoT:** Arduino, sensors, embedded prototyping
 
-- **Languages:**  
-  `TypeScript` · `Python` · `Java` · `Dart` · `Solidity` · `Arduino (C/C++)`  
-
-- **Frameworks & Libraries:**  
-  `React` · `Vite` ·  `Next.js` · `FastAPI` · `Flutter` · `Spring Boot` · `Spring MVC`  
-
-- **Cloud & DevOps:**  
-  `Docker` · `Kubernetes` · `CI/CD Pipelines` · `Terraform` · `GCP` · `Azure`  
-
-- **Hardware & IoT:**  
-  Prototyping with **Arduino**, sensors and embedded systems for smart farming  
-
-💡 **Let’s connect**  
-I love building **real-world solutions for agriculture, food and manufacturing**.  
-If you’re working on AgriTech, food innovation or industrial digitalization, let’s talk and create tech that makes a difference.
+💡 **Open to**
+- AgriTech & FoodTech collaborations
+- Industrial digitalization projects
+- Early-stage product development (0→1)
 
 ---
 
+📅 **Let’s talk**
 <a href="https://calendly.com/francescomazzi/15min" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Book%20a%2015–min%20call-Calendly-blue?style=for-the-badge" alt="Book a 15-min call on Calendly" />
+  <img src="https://img.shields.io/badge/Book%20a%2015–min%20call-Calendly-blue?style=for-the-badge" />
 </a>
