@@ -1,4 +1,4 @@
-# 👋 Hi, I’m FraSma — Software developer building AI products for AgriTech & Manufacturing
+# 👋 Hi, I’m FraSma — Software developer fall in love for AgriTech & Manufacturing
 
 I design and ship **production-ready software** where **agriculture, data and automation** meet.
 
