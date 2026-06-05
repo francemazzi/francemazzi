@@ -25,7 +25,7 @@ I design and ship **production-ready software** where **agriculture, data and au
 
 ---
 
-📅 **Let’s talk**
+
 <a href="https://calendly.com/francescomazzi/15min" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Book%20a%2015–min%20call-Calendly-blue?style=for-the-badge" />
+ <img src="https://img.shields.io/badge/Book%20a%2015–min%20call-Calendly-blue?style=for-the-badge" />
 </a>
