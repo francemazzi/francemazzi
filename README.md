@@ -8,11 +8,7 @@ I design and ship **production-ready software** where **agriculture, data and au
   → creator of <a href="https://seminai.tech/" target="_blank" rel="noopener noreferrer"><strong>seminai.tech</strong></a>
 - Process optimization with **data, APIs and ML** for startups and industrial teams
 
-🧠 **Currently focused on**
-- Machine learning for **decision-support systems** in agriculture (TensorFlow, applied ML)
-- **Low-level networking & integrations** (Scapy, resilient systems)
-
-🌱 **Side reality**
+🌱 **Side reality in my past**
 - Built a **modular vertical farm** from scratch: hardware, sensors, control logic and software
 
 🛠️ **Tech stack**
