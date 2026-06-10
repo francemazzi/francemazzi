@@ -3,9 +3,8 @@
 I design and ship **production-ready software** where **agriculture, data and automation** meet.
 
 🌾 **What I work on**
-- End-to-end platforms for **agriculture, food supply chains and manufacturing**
-- **AI-driven workflow automation** for farmers, agronomists and food companies  
-  → creator of <a href="https://seminai.tech/" target="_blank" rel="noopener noreferrer"><strong>seminai.tech</strong></a>
+- End-to-end platforms for **agriculture, food supply chains and manufacturing** → <a href="https://frasma.org/" target="_blank" rel="noopener noreferrer"><strong>frasma.org</strong></a>
+- **AI-driven workflow automation** for farmers, agronomists and food companies → <a href="https://seminai.tech/" target="_blank" rel="noopener noreferrer"><strong>seminai.tech</strong></a>
 - Process optimization with **data, APIs and ML** for startups and industrial teams
 
 🌱 **Side reality in my past**
