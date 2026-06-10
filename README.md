@@ -8,7 +8,8 @@ I design and ship **production-ready software** where **agriculture, data and au
 - Process optimization with **data, APIs and ML** for startups and industrial teams
 
 🌱 **Side reality in my past**
-- Built a **modular vertical farm** at UniBo from scratch: hardware, sensors, control logic and software → <a href="https://www.youtube.com/watch?v=2spPd4DIGpg" target="_blank" rel="noopener noreferrer"><strong>hortown</strong></a>
+- Built a **modular vertical farm** at UniBo from scratch: hardware, sensors, control logic and software → <a href="https://www.youtube.com/watch?v=2spPd4DIGpg" target="_blank" rel="noopener noreferrer"><strong>hortown - 2020</strong></a>
+- Marketplace to deliver fresh products from local organic farmers to companies before and during lockdown → <a href="https://youtu.be/ojsTNNpgHwE" target="_blank" rel="noopener noreferrer"><strong>siestabio - 2019</strong></a>
 
 🛠️ **Tech stack**
 - **Languages:** TypeScript · Python · Java · Dart · Solidity · Arduino (C/C++)
